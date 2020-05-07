@@ -25,6 +25,9 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 ### Getting Started
 
+I'm assuming the Python environment is set up according to the specification of the exercise, except PyTorch which should
+be at least 1.5.0. You can also use `pip install -r requirements.txt`
+
 1. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Linux.zip)
     - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis.app.zip)
